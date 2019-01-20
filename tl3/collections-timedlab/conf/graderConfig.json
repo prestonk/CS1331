@@ -1,0 +1,130 @@
+{
+  "tests": [
+    {
+      "name": "implementsComparable",
+      "comment": "Assignment is not comparable",
+      "points": 5,
+      "extraCredit": false,
+      "silent": false,
+      "dependencies": "",
+      "ifFailed": ""
+    },
+    {
+      "name": "comparatorImplementsComparator",
+      "comment": "GradebookAssignmentComparator is not a comparator",
+      "points": 5,
+      "extraCredit": false,
+      "silent": false,
+      "dependencies": "",
+      "ifFailed": ""
+    },
+    {
+      "name": "hashCodeExists",
+      "comment": "",
+      "points": 5,
+      "extraCredit": false,
+      "silent": false,
+      "dependencies": "",
+      "ifFailed": ""
+    },
+    {
+      "name": "equalsExists",
+      "comment": "",
+      "points": 5,
+      "extraCredit": false,
+      "silent": false,
+      "dependencies": "",
+      "ifFailed": ""
+    },
+    {
+      "name": "hashCodeIsProper",
+      "comment": "hashCode is not correctly defined",
+      "points": 5,
+      "extraCredit": false,
+      "silent": false,
+      "dependencies": "",
+      "ifFailed": ""
+    },
+    {
+      "name": "equalsIsProper",
+      "comment": "Equality of assignments is not properly defined",
+      "points": 5,
+      "extraCredit": false,
+      "silent": false,
+      "dependencies": "",
+      "ifFailed": ""
+    },
+    {
+      "name": "implementsGenericComparable",
+      "comment": "Assignment may be Comparable, but does not provide strong compile-time checking",
+      "points": 5,
+      "extraCredit": false,
+      "silent": false,
+      "dependencies": "",
+      "ifFailed": ""
+    },
+    {
+      "name": "compareToExists",
+      "comment": "Cannot find way to naturally order Assignment",
+      "points": 5,
+      "extraCredit": false,
+      "silent": false,
+      "dependencies": "",
+      "ifFailed": ""
+    },
+    {
+      "name": "compareToIsProper",
+      "comment": "Natural ordering is incorrect",
+      "points": 5,
+      "extraCredit": false,
+      "silent": false,
+      "dependencies": "",
+      "ifFailed": ""
+    },
+    {
+      "name": "comparatorExists",
+      "comment": "Could not find GradebookAssignmentComparator",
+      "points": 5,
+      "extraCredit": false,
+      "silent": false,
+      "dependencies": "",
+      "ifFailed": ""
+    },
+    {
+      "name": "compareExists",
+      "comment": "Could not find a way to compare assignments with GradebookAssignmentComparator",
+      "points": 5,
+      "extraCredit": false,
+      "silent": false,
+      "dependencies": "",
+      "ifFailed": ""
+    },
+    {
+      "name": "comparatorImplementsGenericComparator",
+      "comment": "GradebookAssignmentComparator doesn\u0027t provide strong compile-time type checking",
+      "points": 5,
+      "extraCredit": false,
+      "silent": false,
+      "dependencies": "",
+      "ifFailed": ""
+    },
+    {
+      "name": "compareIsProper",
+      "comment": "Comparison with GradebookAssignmentComparator is wrong",
+      "points": 5,
+      "extraCredit": false,
+      "silent": false,
+      "dependencies": "",
+      "ifFailed": ""
+    },
+    {
+      "name": "decodeString",
+      "comment": "Extra credit completed sucessfully!",
+      "points": 20,
+      "extraCredit": true,
+      "silent": true,
+      "dependencies": "",
+      "ifFailed": ""
+    }
+  ]
+}

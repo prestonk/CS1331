@@ -1,0 +1,85 @@
+{
+  "tests": [
+    {
+      "name": "movieIsAbstract",
+      "comment": "",
+      "points": 5,
+      "extraCredit": false,
+      "silent": false,
+      "dependencies": "",
+      "ifFailed": ""
+    },
+    {
+      "name": "movieGetPriceMethod",
+      "comment": "",
+      "points": 5,
+      "extraCredit": false,
+      "silent": false,
+      "dependencies": "",
+      "ifFailed": ""
+    },
+    {
+      "name": "movieOverridesToString",
+      "comment": "",
+      "points": 5,
+      "extraCredit": false,
+      "silent": false,
+      "dependencies": "",
+      "ifFailed": ""
+    },
+    {
+      "name": "movieOverridesEquals",
+      "comment": "",
+      "points": 10,
+      "extraCredit": false,
+      "silent": false,
+      "dependencies": "",
+      "ifFailed": ""
+    },
+    {
+      "name": "comedyMovie",
+      "comment": "",
+      "points": 5,
+      "extraCredit": false,
+      "silent": false,
+      "dependencies": "",
+      "ifFailed": ""
+    },
+    {
+      "name": "dramaMovie",
+      "comment": "",
+      "points": 5,
+      "extraCredit": false,
+      "silent": false,
+      "dependencies": "",
+      "ifFailed": ""
+    },
+    {
+      "name": "scifiMovie",
+      "comment": "",
+      "points": 5,
+      "extraCredit": false,
+      "silent": false,
+      "dependencies": "",
+      "ifFailed": ""
+    },
+    {
+      "name": "actionMovie",
+      "comment": "",
+      "points": 5,
+      "extraCredit": false,
+      "silent": false,
+      "dependencies": "",
+      "ifFailed": ""
+    },
+    {
+      "name": "totalPrice",
+      "comment": "",
+      "points": 10,
+      "extraCredit": false,
+      "silent": false,
+      "dependencies": "",
+      "ifFailed": ""
+    }
+  ]
+}
